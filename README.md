@@ -1,1 +1,1 @@
-A new directory
+Repo used for playing around with Git :smile:
